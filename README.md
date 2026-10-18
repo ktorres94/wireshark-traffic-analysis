@@ -35,19 +35,19 @@ ip.addr == 172.66.157.237 and tls.handshake.type == 2
 
 ### DNS query
 
-![DNS query for example.org](screenshots/01-dns-query-example-org.png)
+![DNS query for example.org](01-dns-query-example-org.png)
 
 ### DNS response
 
-![DNS response for example.org](screenshots/02-dns-response-example-org.png)
+![DNS response for example.org](02-dns-response-example-org.png)
 
 ### TLS Client Hello
 
-![TLS Client Hello showing the server name and supported versions](screenshots/03-tls-client-hello.png)
+![TLS Client Hello showing the server name and supported versions](03-tls-client-hello.png)
 
 ### TLS Server Hello
 
-![TLS Server Hello showing TLS 1.3 and the selected cipher suite](screenshots/04-tls-server-hello.png)
+![TLS Server Hello showing TLS 1.3 and the selected cipher suite](04-tls-server-hello.png)
 
 ## Scope and limitations
 
